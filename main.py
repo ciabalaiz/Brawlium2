@@ -1,4 +1,4 @@
 import eel
 
 eel.init("frontend")
-eel.start("app.vue")
+eel.start("index.html")
